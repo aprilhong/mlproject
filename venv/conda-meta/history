@@ -71,3 +71,32 @@
 +conda-forge/win-64::zeromq-4.3.5-he1f189c_4
 # update specs: ['ipykernel']
 # neutered specs: ['python==3.8.19']
+==> 2024-07-09 14:30:07 <==
+# cmd: C:\Users\tunhi\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix C:/Users/tunhi/OneDrive/Documents/Github/mlproject/venv tensorboard -y
+# conda version: 23.11.0
++conda-forge/noarch::absl-py-2.1.0-pyhd8ed1ab_0
++conda-forge/noarch::markdown-3.6-pyhd8ed1ab_0
++conda-forge/noarch::tensorboard-2.17.0-pyhd8ed1ab_0
++conda-forge/noarch::werkzeug-3.0.3-pyhd8ed1ab_0
++conda-forge/win-64::c-ares-1.28.1-hcfcfb64_0
++conda-forge/win-64::grpcio-1.62.2-py38h19421c1_0
++conda-forge/win-64::intel-openmp-2024.2.0-h57928b3_979
++conda-forge/win-64::libabseil-20240116.2-cxx17_h63175ca_0
++conda-forge/win-64::libblas-3.9.0-22_win64_mkl
++conda-forge/win-64::libcblas-3.9.0-22_win64_mkl
++conda-forge/win-64::libgrpc-1.62.2-h5273850_0
++conda-forge/win-64::libhwloc-2.11.0-default_h8125262_1000
++conda-forge/win-64::libiconv-1.17-hcfcfb64_2
++conda-forge/win-64::liblapack-3.9.0-22_win64_mkl
++conda-forge/win-64::libprotobuf-4.25.3-h503648d_0
++conda-forge/win-64::libre2-11-2023.09.01-hf8d8778_2
++conda-forge/win-64::libxml2-2.12.7-h283a6d9_1
++conda-forge/win-64::markupsafe-2.1.5-py38h91455d4_0
++conda-forge/win-64::mkl-2024.1.0-h66d3029_692
++conda-forge/win-64::numpy-1.24.4-py38h1d91fd2_0
++conda-forge/win-64::protobuf-4.25.3-py38h0f53e27_0
++conda-forge/win-64::pthreads-win32-2.9.1-hfa6e2cd_3
++conda-forge/win-64::re2-2023.09.01-hd3b24a8_2
++conda-forge/win-64::tbb-2021.12.0-hc790b64_2
++conda-forge/win-64::tensorboard-data-server-0.7.0-py38haa244fe_1
+# update specs: ['tensorboard']
